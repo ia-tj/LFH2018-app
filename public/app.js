@@ -15,6 +15,7 @@ app.controller("lfhCtrl", function($rootScope, $scope, api) {
 	
 	$scope.logout = function() {
 		$scope.usuario = null;
+		setDocumentoAtual = null;
 	}
 	
 	$scope.setDocumentoAtual = function(doc) {
