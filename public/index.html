@@ -30,14 +30,24 @@
 	</nav>
 	<br>
 	<div class="container">
-		<div class="row justify-content-md-center" ng-if="usuario">
+		<div class="row justify-content-md" ng-if="usuario">
+		
+			<div class="col-md-12">
+				<h2>Tópicos recorrentes <small>({{documentos.length}})</small></h2>
+				<br>
 			
-			<div class="col-md-10 list-group">
-				<div ng-repeat="doc in documentos" class="list-group-item list-group-item-action">
-					{{doc.topicos_principais}}
+				<div class="list-group">
+					<div ng-repeat="doc in documentos" class="col-md-12 list-group-item list-group-item-action">
+						<div ng-click="setDocumentoAtual(doc)">{{doc.topicos_principais}}</div>
+						<button ng-click="doc.detail=true" class="float-right btn btn-link btn-sm">Subtópicos...</button>
+						<div class="bg-faded card card-block" ng-show="doc.detail">{{doc.sub_topicos}}</div>
+						
+						<div ng-if="doc == documentoAtual" ng-repeat="(id, proc) in processos" class="list-group-item list-group-item-action">
+							{{proc.numero_processo | cnj}}
+						</div>
+					</div>
 				</div>
 			</div>
-
 		</div>
 		
 		<div ng-show="!usuario">
@@ -75,8 +85,6 @@
 
 		<hr>
 		
-		<pre>{{documentos | json}}</pre>
-
 		<footer id="footer">
 			<p>
 				&copy; <a href="https://github.com/ia-tj" target="_blank">https://github.com/ia-tj/LFH2018-app</a>
