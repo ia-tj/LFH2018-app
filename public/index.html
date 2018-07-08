@@ -30,20 +30,40 @@
 	</nav>
 	<br>
 	<div class="container">
-		<div class="row justify-content-md" ng-if="usuario">
+		<div class="row ng-if="usuario">
 		
 			<div class="col-md-12">
 				<h2>Tópicos recorrentes <small>({{documentos.length}})</small></h2>
 				<br>
 			
 				<div class="list-group">
-					<div ng-repeat="doc in documentos" class="col-md-12 list-group-item list-group-item-action">
-						<div ng-click="setDocumentoAtual(doc)">{{doc.topicos_principais}}</div>
-						<button ng-click="doc.detail=true" class="float-right btn btn-link btn-sm">Subtópicos...</button>
-						<div class="bg-faded card card-block" ng-show="doc.detail">{{doc.sub_topicos}}</div>
+					<div ng-repeat="doc in documentos" class="row list-group-item list-group-item-action">
 						
-						<div ng-if="doc == documentoAtual" ng-repeat="(id, proc) in processos" class="list-group-item list-group-item-action">
-							{{proc.numero_processo | cnj}}
+						<div class="col-md-12" ng-click="doc.atual=!doc.atual;setDocumentoAtual(doc)">
+							<div class="lead" ng-if="!doc.atual">{{doc.topicos_principais}}</div>
+							<div class="lead" ng-if="doc.atual">
+								<p><strong>{{doc.topicos_principais}}</strong></p>
+								<p class="lead" ng-if="doc.atual">
+								Subtópicos: {{doc.sub_topicos}}
+								</p>
+							</div>
+						</div>
+						
+						<div class="col-md-12" ng-if="doc.atual">
+							<div class="row">
+								<div class="col-md-6">
+									<canvas id="radar" class="chart chart-polar-area" chart-data="graph.data" chart-options="options" chart-labels="graph.labels">
+									</canvas>
+								</div>
+								<div class="col-md-6">
+									<div ng-repeat="(id, proc) in processos" >
+										<a href="http://app.tjsc.jus.br/push/pg/n/{{proc.numero_processo | cnj}}" target="_blank">
+											{{proc.numero_processo | cnj}}
+										</a>
+										<span class="badge badge-pill badge-danger">{{proc.grau}}º {{proc.status}}</span>
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -97,8 +117,12 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" crossorigin="anonymous"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.10/angular.min.js" crossorigin="anonymous"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.10/angular-sanitize.js" crossorigin="anonymous"></script>
-		
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js" crossorigin="anonymous"></script>
+	
+	<script src="lib/angular-chart.min.js"></script>
+	
 	<script src="app.js"></script>
 	<script src="api.js"></script>
+	
   </body>
 </html>

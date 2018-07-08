@@ -1,6 +1,6 @@
 "use strict";
 
-var app = angular.module("lfhApp", ['ngSanitize']);
+var app = angular.module("lfhApp", ['ngSanitize', 'chart.js']);
 
 app.controller("lfhCtrl", function($rootScope, $scope, api) {
 	
@@ -26,9 +26,16 @@ app.controller("lfhCtrl", function($rootScope, $scope, api) {
 		$scope.processos = {};
 		angular.forEach($scope.documentos, function(doc, i) {
 			if (docAtual.topicos_principais == doc.topicos_principais) {
-				this[doc.numero_processo] = {numero_processo: doc.numero_processo, grau: 1, status: "JULGADO"}
+				this[doc.numero_processo] = {numero_processo: doc.numero_processo, grau: 2, status: "PENDENTE"}
 			}
 		}, $scope.processos);
+		
+		
+		$scope.graph = {};
+		
+		$scope.graph.labels =["Pendente 2º", "Julgado 2º", "1º"];
+
+		$scope.graph.data = [65, 59, 90];
 	}
 	
 	var carregarLista = function() {
