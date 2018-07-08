@@ -1,993 +1,870 @@
 [
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00051051420108240082",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03003907720178240026",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00066387320038240075",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03069622420148240036",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00018747420148240005",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03051965820168240005",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00066130620138240012",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03163842820158240023",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05003628620128240031",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "08005002520128240113",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00024629420138240012",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00021662320108240030",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03004466520148240075",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00070565920138240075",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00066039420078240036",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00037154320108240103",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00107016220128240064",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03331058920148240023",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03046597820158240011",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03005333220178240005",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05005212920128240031",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03312342420148240023",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00020145120108240037",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03232129220158240038",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05002795520128240036",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03018766020148240040",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05003985020118240036",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00024543219998240005",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05002102620128240035",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00030245720108240126",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03021742220168240092",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00047685020118240030",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00029919320128240030",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03232129220158240038",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00030444920098240040",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00061482120108240135",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05000215420138240054",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03038101120148240054",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00060485520138240040",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05015835520138240036",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05010789420138240026",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05001478120108240031",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00018630320098240011",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05001090520128240159",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03016571720168240092",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05000851320128240050",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05010514620118240038",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00056477520128240045",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00056465120138240079",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03038101120148240054",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03029745020168240092",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00019587420128240028",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00024676420068240141",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00033437320138240076",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05009401820138240030",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "08004099520138240113",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05002852920108240005",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05001328820138240005",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03018766020148240040",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05004590820118240036",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03211511220158240023",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03007343320148240036",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00024367520118240074",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05011375920128240045",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00018630320098240011",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03042474720158240012",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "08001111120108240113",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03224887020148240023",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00091829020078240011",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05012063520138240020",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00075138920138240011",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00037555120138240125",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00047085920138240078",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05057285120138240038",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03382173920148240023",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03173369320148240038",
-        "sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00110425820098240011",
-        "sub_topicos": "valor, tutela, contrato, mora, bem, direito, antecipado, encargos, arrendamento, cobranca"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "08006951020128240113",
-        "sub_topicos": "valor, tutela, contrato, mora, bem, direito, antecipado, encargos, arrendamento, cobranca"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05000151220118240056",
-        "sub_topicos": "valor, tutela, contrato, mora, bem, direito, antecipado, encargos, arrendamento, cobranca"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05002905020138240036",
-        "sub_topicos": "valor, tutela, contrato, mora, bem, direito, antecipado, encargos, arrendamento, cobranca"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00090964620098240045",
-        "sub_topicos": "valor, tutela, contrato, mora, bem, direito, antecipado, encargos, arrendamento, cobranca"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00030455220108240055",
-        "sub_topicos": "valor, tutela, contrato, mora, bem, direito, antecipado, encargos, arrendamento, cobranca"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05001328820138240005",
-        "sub_topicos": "valor, tutela, contrato, mora, bem, direito, antecipado, encargos, arrendamento, cobranca"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00035273420098240055",
-        "sub_topicos": "valor, tutela, contrato, mora, bem, direito, antecipado, encargos, arrendamento, cobranca"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03000521520158240078",
-        "sub_topicos": "valor, tutela, contrato, mora, bem, direito, antecipado, encargos, arrendamento, cobranca"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03069622420148240036",
-        "sub_topicos": "valor, tutela, contrato, mora, bem, direito, antecipado, encargos, arrendamento, cobranca"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05002787020128240036",
-        "sub_topicos": "valor, tutela, contrato, mora, bem, direito, antecipado, encargos, arrendamento, cobranca"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05010042520138240031",
-        "sub_topicos": "valor, tutela, contrato, mora, bem, direito, antecipado, encargos, arrendamento, cobranca"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00075138920138240011",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00022597220128240011",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00049871120128240036",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00074495220098240033",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "06009260520148240031",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05001165620138240031",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00026843120118240045",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "06003203020148240078",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03056674920148240036",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05009802820118240011",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03022002020168240092",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00028605020118240064",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00095401820118240075",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03235111720158240023",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05002199120138240054",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05005061120138240036",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05006515220108240075",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00018243320108240023",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03029641320158240004",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00045331520138240030",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05001996220128240078",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05011542420128240004",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00021484920088240037",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00056217420098240080",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05000427620138240071",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03140507520158240005",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00041936720118240054",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "08934032420138240023",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05021763420128240064",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00035513820118240008",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "03225798120158240038",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "05002012620138240004",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "08017439520138240039",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    },
-    {
-        "score": 1.0,
-        "topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
-        "topico": "topic_14",
-        "numero_processo": "00074493820078240125",
-        "sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
-        
-    }
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00051051420108240082",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03003907720178240026",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00066387320038240075",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03069622420148240036",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00018747420148240005",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03051965820168240005",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00066130620138240012",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03163842820158240023",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05003628620128240031",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "08005002520128240113",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00024629420138240012",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00021662320108240030",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03004466520148240075",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00070565920138240075",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00066039420078240036",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00037154320108240103",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00107016220128240064",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03331058920148240023",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03046597820158240011",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03005333220178240005",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05005212920128240031",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03312342420148240023",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00020145120108240037",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03232129220158240038",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05002795520128240036",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03018766020148240040",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05003985020118240036",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00024543219998240005",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05002102620128240035",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00030245720108240126",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03021742220168240092",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00047685020118240030",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00029919320128240030",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03232129220158240038",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00030444920098240040",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00061482120108240135",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05000215420138240054",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03038101120148240054",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00060485520138240040",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05015835520138240036",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05010789420138240026",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05001478120108240031",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00018630320098240011",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05001090520128240159",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03016571720168240092",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05000851320128240050",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05010514620118240038",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00056477520128240045",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00056465120138240079",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03038101120148240054",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03029745020168240092",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00019587420128240028",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00024676420068240141",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00033437320138240076",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05009401820138240030",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "08004099520138240113",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05002852920108240005",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05001328820138240005",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03018766020148240040",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05004590820118240036",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03211511220158240023",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03007343320148240036",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00024367520118240074",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05011375920128240045",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00018630320098240011",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03042474720158240012",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "08001111120108240113",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03224887020148240023",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00091829020078240011",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05012063520138240020",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00075138920138240011",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00037555120138240125",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00047085920138240078",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05057285120138240038",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03382173920148240023",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03173369320148240038",
+		"sub_topicos": "apelacao, sentenca, contrato, autor, valores, civel, financiamento, indebito, apelante, repeticao"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00110425820098240011",
+		"sub_topicos": "valor, tutela, contrato, mora, bem, direito, antecipado, encargos, arrendamento, cobranca"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "08006951020128240113",
+		"sub_topicos": "valor, tutela, contrato, mora, bem, direito, antecipado, encargos, arrendamento, cobranca"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05000151220118240056",
+		"sub_topicos": "valor, tutela, contrato, mora, bem, direito, antecipado, encargos, arrendamento, cobranca"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05002905020138240036",
+		"sub_topicos": "valor, tutela, contrato, mora, bem, direito, antecipado, encargos, arrendamento, cobranca"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00090964620098240045",
+		"sub_topicos": "valor, tutela, contrato, mora, bem, direito, antecipado, encargos, arrendamento, cobranca"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00030455220108240055",
+		"sub_topicos": "valor, tutela, contrato, mora, bem, direito, antecipado, encargos, arrendamento, cobranca"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05001328820138240005",
+		"sub_topicos": "valor, tutela, contrato, mora, bem, direito, antecipado, encargos, arrendamento, cobranca"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00035273420098240055",
+		"sub_topicos": "valor, tutela, contrato, mora, bem, direito, antecipado, encargos, arrendamento, cobranca"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03000521520158240078",
+		"sub_topicos": "valor, tutela, contrato, mora, bem, direito, antecipado, encargos, arrendamento, cobranca"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03069622420148240036",
+		"sub_topicos": "valor, tutela, contrato, mora, bem, direito, antecipado, encargos, arrendamento, cobranca"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05002787020128240036",
+		"sub_topicos": "valor, tutela, contrato, mora, bem, direito, antecipado, encargos, arrendamento, cobranca"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05010042520138240031",
+		"sub_topicos": "valor, tutela, contrato, mora, bem, direito, antecipado, encargos, arrendamento, cobranca"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00075138920138240011",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00022597220128240011",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00049871120128240036",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00074495220098240033",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "06009260520148240031",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05001165620138240031",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00026843120118240045",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "06003203020148240078",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03056674920148240036",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05009802820118240011",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03022002020168240092",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00028605020118240064",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00095401820118240075",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03235111720158240023",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05002199120138240054",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05005061120138240036",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05006515220108240075",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00018243320108240023",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03029641320158240004",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00045331520138240030",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05001996220128240078",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05011542420128240004",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00021484920088240037",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00056217420098240080",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05000427620138240071",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03140507520158240005",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00041936720118240054",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "08934032420138240023",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05021763420128240064",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00035513820118240008",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "03225798120158240038",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "05002012620138240004",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "08017439520138240039",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	},
+	{
+		"score": 1.0,
+		"topicos_principais": "juros, contrato, taxa, remuneratorios, contratual, capitalizacao, credito, consumidor, encargos, cobranca, contratos, banco, comercial, revisao, ano",
+		"topico": "topic_14",
+		"numero_processo": "00074493820078240125",
+		"sub_topicos": "juros, capitalizacao, rel, mensal, stj, anual, resp, cobranca, tribunal, expressa"
+	}
 ]

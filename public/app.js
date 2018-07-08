@@ -5,7 +5,7 @@ var app = angular.module("lfhApp", ['ngSanitize', 'chart.js']);
 app.controller("lfhCtrl", function($rootScope, $scope, api) {
 	
 	$rootScope.brand = 'IA[R]²';
-	$rootScope.brandDetail = 'Lawtech Hackathon 2018';
+	$rootScope.brandDetail = 'Identificação de Recursos Repetitivos';
 	
 	$scope.auth = function() {
 		$scope.usuario = {email: $scope.email};
@@ -36,14 +36,14 @@ app.controller("lfhCtrl", function($rootScope, $scope, api) {
 				
 				if (proc.grau == 1) {
 					primeiro++;
-					proc.statusLabel = 'badge-danger';
+					proc.statusLabel = 'lfh-badge-secondary badge-secondary';
 				} else if (proc.grau == 2) {
 					if (proc.status == "JULGADO") {
 						segundoJulgado++;
 						proc.statusLabel = 'badge-primary';
 					} else {
 						segundoPendente++;
-						proc.statusLabel = 'lfh-badge-secondary badge-secondary';
+						proc.statusLabel = 'badge-danger';
 					}
 				}
 			}
@@ -67,7 +67,7 @@ app.controller("lfhCtrl", function($rootScope, $scope, api) {
 		$scope.documentos = api.getDocumentos();
 	}
 
-	$scope.auth();
+	//$scope.auth();
 });
 
 app.filter('cnj', function() {

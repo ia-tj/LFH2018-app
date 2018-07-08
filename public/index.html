@@ -7,7 +7,7 @@
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
 
-    <title>IA[R]² - Lawtech Hackathon 2018</title>
+    <title>IA[R]²</title>
 
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
@@ -17,7 +17,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
   </head>
 
-  <body ng-controller="lfhCtrl" ng-init="email='carlos.roberto@lawtech.floripa.br'; password='123456'">
+  <body ng-controller="lfhCtrl" ng-init="email='lawtech@hackathon.floripa.br'; password='123456'">
 	<nav class="row navbar navbar-toggleable-md navbar-inverse bg-inverse">
 		<div class="col-md-2 offset-md-1">
 			<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" 
@@ -35,7 +35,12 @@
 		<div class="row" ng-if="!!usuario">
 		
 			<div class="col-md-12">
-				<h2>Tópicos recorrentes <small>({{documentos.length}})</small></h2>
+				<h2>Tópicos recorrentes <small>({{documentos.length}})</small>
+					<small class="float-right">
+					  <button type="button" class="btn btn-sm btn-primary">Baixar relatório</button>
+					  <button type="button" class="btn btn-sm btn-primary"><input type="checkbox" checked="checked"> Receber notificação</button>
+					</small>
+				</h2>
 				<br>
 			
 				<div class="list-group">
@@ -46,7 +51,7 @@
 							<div class="lead" ng-if="doc.atual">
 								<p><strong>{{doc.topicos_principais}}</strong></p>
 								<p class="lead" ng-if="doc.atual">
-								Subtópicos: {{doc.sub_topicos}}
+									Subtópicos: {{doc.sub_topicos}}
 								</p>
 							</div>
 						</div>
@@ -77,7 +82,7 @@
 		<div ng-show="!usuario">
 			<div class="painel-principal row justify-content-md-center">
 				<div class="col-md-4">
-					<h1 class="jumbotron-heading">Identificação de Recursos Repetitivos</h1>
+					<h2 class="jumbotron-heading">Rôbos que favorecem a nossa humanidade</h2>
 	         		<p class="lead text-muted">(Descrever...)</p>
 				</div>
 				
@@ -111,7 +116,7 @@
 		
 		<footer id="footer">
 			<p>
-				&copy; <a href="https://github.com/ia-tj" target="_blank">https://github.com/ia-tj/LFH2018-app</a>
+				&copy; <a href="https://github.com/ia-tj" target="_blank">Lawtech Hackathon 2018</a>
 			</p>
 		</footer>
 	</div>
