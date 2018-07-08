@@ -31,60 +31,43 @@
 		</div>
 	</nav>
 	<br>
-	<div class="container">
-		<div class="row" ng-if="!!usuario">
+	<div class="container" ng-if="!!usuario">
+
+		<h2>Tópicos recorrentes <small>({{topicos.length}})</small>
+			<small class="float-right">
+			  <button type="button" class="btn btn-sm btn-primary">Baixar relatório</button>
+			  <button type="button" class="btn btn-sm btn-primary"><input type="checkbox" checked="checked"> Receber notificação</button>
+			</small>
+		</h2>
+		<br>
 		
-			<div class="col-md-12">
-				<h2>Tópicos recorrentes <small>({{documentos.length}})</small>
-					<small class="float-right">
-					  <button type="button" class="btn btn-sm btn-primary">Baixar relatório</button>
-					  <button type="button" class="btn btn-sm btn-primary"><input type="checkbox" checked="checked"> Receber notificação</button>
-					</small>
-				</h2>
-				<br>
-				
-				<div class="list-group">
-					<div ng-repeat="doc in documentos" class="row list-group-item list-group-item-action">
-						<div class="col-md-12">
-							<p class="lead" ng-if="!doc.atual" ng-click="doc.atual=true;setDocumentoAtual(doc)">
-								<span class="badge badge-info">Apto</span>
-								{{doc.topicos_principais}}
-							</p>
-							<div ng-if="doc.atual">
-								
-								<div class="dropdown">
-								  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown">
-								    Apto repetitivo
-								  </button>
-								  <div class="dropdown-menu">
-								  	<a class="dropdown-item" href="#">Apto repetitivo</a>
-								    <a class="dropdown-item" href="#">Decidido repetitivo</a>
-								    <a class="dropdown-item" href="#">Indicado como repetitivo</a>
-								  </div>
-								</div>
-								
-								<p class="lead" ng-click="doc.atual=false">
-									<strong>{{doc.topicos_principais}}</strong><br>
-									Subtópicos: {{doc.sub_topicos}}
-								</p>
-							</div>
-						</div>
+		<div ng-repeat="topicMap in topicos">
+
+			<div ng-repeat="(topic, subMap) in topicMap" class="card card-block bg-faded">
+				<h3 ng-click="topicAtual = topic">{{topic}}</h3>
 						
-						<div class="col-md-12" ng-if="doc.atual">
-							<div class="row">
-								<div class="col-md-8">
-									<br>
+				<div ng-if="topicAtual == topic" class="list-group">
+					<br>
+					<h4>Subtópicos</h4>
+					<div ng-repeat="(subtopic, processos) in subMap" class="list-group-item list-group-item-action">
+						<p>
+							<span class="badge badge-info">Apto</span>&nbsp;
+							<span ng-click="subtopicAtual = subtopic; carregarStatusProcessos(processos)" class="lead">{{subtopic}}</span>
+						</p>
+
+						<div ng-if="subtopicAtual == subtopic" class="row justify-content-md-center">
+							<div class="col-md-8">
+								<br>
 									<canvas id="radar" class="chart chart-polar-area" chart-data="graph.data" chart-options="options" chart-labels="graph.labels">
 									</canvas>
-								</div>
-								<div class="col-md-4">
-									<h4>Processos similares</h4>
-									<div ng-repeat="(id, proc) in processos" >
-										<a href="http://app.tjsc.jus.br/push/pg/n/{{proc.numero_processo | cnj}}" target="_blank">
-											{{proc.numero_processo | cnj}}
-										</a>
-										<span class="badge" ng-class="proc.statusLabel">{{proc.grau}}º {{proc.status}}</span>
-									</div>
+							</div>
+							<div class="col-md-4">
+								<h4>Similares <small>({{processos.length}})</small></h4>
+								<div ng-repeat="(id, proc) in processos" >
+									<a href="http://app.tjsc.jus.br/push/pg/n/{{proc.numero_processo | cnj}}" target="_blank">
+										{{proc.numero_processo | cnj}}
+									</a>
+									<small><span class="badge" ng-class="proc.statusLabel">{{proc.grau}}º {{proc.status}}</span></small>
 								</div>
 							</div>
 						</div>
@@ -93,39 +76,7 @@
 			</div>
 		</div>
 		
-		<div ng-show="!usuario">
-			<div class="painel-principal row justify-content-md-center">
-				<div class="col-md-4">
-					<h2 class="jumbotron-heading">Rôbo que favorecem a nossa humanidade</h2>
-					<br>
-	         		<p class="lead text-muted">O <strong>IADR</strong> facilita a identificação das matérias repetitivas, otimizando o julgamento e garantindo a celeridade processual, isonomia e segurança jurídica.</p>
-				</div>
-				
-				<div class="col-md-3 offset-md-1">
-					<form name="login" ng-submit="auth()">
-				        <div class="form-group">
-				        	<input type="email" ng-model="email" class="form-control" placeholder="Email" required autofocus>
-				        </div>
-				        <div class="form-group">
-				        	<input type="password" ng-model="password" class="form-control" placeholder="Senha" required>
-				        </div>
-				        <button class="btn btn-lg btn-primary btn-block" type="submit">Acessar</button>
-					</form>
-				</div>
-			</div>
-
-			<div class="entregas row justify-content-md-center">
-				<div class="col-md-4 text-center">
-					<div class="btn btn-link">Pitch</div>
-				</div>
-				<div class="col-md-4 text-center">
-					<a href="https://github.com/orgs/ia-tj/teams/lfh2018/repositories" target="_blank" class="btn btn-link">Código-fonte</a>
-				</div>
-				<div class="col-md-4 text-center">
-					<div class="btn btn-link">Equipe</div>
-				</div>
-			</div>
-		</div>
+		
 
 		<hr>
 		
@@ -134,6 +85,40 @@
 				&copy; <a href="https://github.com/ia-tj" target="_blank">Lawtech Hackathon 2018</a>
 			</p>
 		</footer>
+	</div>
+
+	<div class="container" ng-show="!usuario">
+		<div class="painel-principal row justify-content-md-center">
+			<div class="col-md-4">
+				<h2 class="jumbotron-heading">Rôbo que favorecem a nossa humanidade</h2>
+				<br>
+         		<p class="lead text-muted">O <strong>IADR</strong> facilita a identificação das matérias repetitivas, otimizando o julgamento e garantindo a celeridade processual, isonomia e segurança jurídica.</p>
+			</div>
+			
+			<div class="col-md-3 offset-md-1">
+				<form name="login" ng-submit="auth()">
+			        <div class="form-group">
+			        	<input type="email" ng-model="email" class="form-control" placeholder="Email" required autofocus>
+			        </div>
+			        <div class="form-group">
+			        	<input type="password" ng-model="password" class="form-control" placeholder="Senha" required>
+			        </div>
+			        <button class="btn btn-lg btn-primary btn-block" type="submit">Acessar</button>
+				</form>
+			</div>
+		</div>
+
+		<div class="entregas row justify-content-md-center">
+			<div class="col-md-4 text-center">
+				<div class="btn btn-link">Pitch</div>
+			</div>
+			<div class="col-md-4 text-center">
+				<a href="https://github.com/orgs/ia-tj/teams/lfh2018/repositories" target="_blank" class="btn btn-link">Código-fonte</a>
+			</div>
+			<div class="col-md-4 text-center">
+				<div class="btn btn-link">Equipe</div>
+			</div>
+		</div>
 	</div>
 
 	<script src="https://code.jquery.com/jquery-3.1.1.min.js" crossorigin="anonymous"></script>
@@ -147,6 +132,12 @@
 	
 	<script src="app.js"></script>
 	<script src="api.js"></script>
+	
+	<script type="text/javascript">
+		var TOPIC_SAMPLES = [];
+	</script>
+	
+	<script src="topic-samples.json" async="async"></script>
 	
   </body>
 </html>

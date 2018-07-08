@@ -17,55 +17,39 @@ app.controller("lfhCtrl", function($rootScope, $scope, api) {
 		$scope.usuario = null;
 	}
 	
-	$scope.setDocumentoAtual = function(doc) {
-		carregarProcessos(doc);
-	}
-	
-	var carregarProcessos = function(docAtual) {
+	$scope.carregarStatusProcessos = function(processos) {
 		var segundoJulgado = 0;
 		var primeiro = 0;
 		var segundoPendente = 0;
 		
-		$scope.processos = {};
-		angular.forEach($scope.documentos, function(doc, i) {
-			if (docAtual.topicos_principais == doc.topicos_principais) {
-				var proc = getProcessoStatusAleatorio(doc);
-				this[doc.numero_processo] = proc;
-				
-				if (proc.grau == 1) {
-					primeiro++;
-					proc.statusLabel = 'lfh-badge-secondary badge-secondary';
-				} else if (proc.grau == 2) {
-					if (proc.status == "JULGADO") {
-						segundoJulgado++;
-						proc.statusLabel = 'badge-primary';
-					} else {
-						segundoPendente++;
-						proc.statusLabel = 'badge-danger';
-					}
+		angular.forEach(processos, function(processo, i) {
+			processo.grau = Math.floor((Math.random() * 2) + 1);
+			if (processo.grau == 2) {
+				processo.status = Math.floor((Math.random() * 2) + 1) == 1 ? "PENDENTE" : "JULGADO";
+			}
+			
+			if (processo.grau == 1) {
+				primeiro++;
+				processo.statusLabel = 'lfh-badge-secondary badge-secondary';
+			} else if (processo.grau == 2) {
+				if (processo.status == "JULGADO") {
+					segundoJulgado++;
+					processo.statusLabel = 'badge-primary';
+				} else {
+					segundoPendente++;
+					processo.statusLabel = 'badge-danger';
 				}
 			}
-		}, $scope.processos);
+		});
 		
 		$scope.graph = {};
 		$scope.graph.labels = ["2º Julgado", "1º", "2º Pendente"];
 		$scope.graph.data = [segundoJulgado, primeiro, segundoPendente];
 	}
 	
-	var getProcessoStatusAleatorio = function(doc) {
-		var grau = Math.floor((Math.random() * 2) + 1);
-		var status;
-		if (grau == 2) {
-			status = Math.floor((Math.random() * 2) + 1) == 1 ? "PENDENTE" : "JULGADO";
-		}
-		return {numero_processo: doc.numero_processo, grau: grau, status: status}
-	}
-	
 	var carregarLista = function() {
-		$scope.documentos = api.getDocumentos();
+		$scope.topicos = api.getTopicos();
 	}
-
-	$scope.auth();
 });
 
 app.filter('cnj', function() {
