@@ -7,7 +7,7 @@
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
 
-    <title>IA[R]²</title>
+    <title>IADR</title>
 
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
@@ -24,7 +24,7 @@
 				aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
-			<a class="navbar-brand" href="#"><strong>{{brand}}</strong> <small>{{brandDetail}}</small></a>
+			<a class="navbar-brand" href="#"><strong>{{brand}}</strong> - <small>{{brandDetail}}</small></a>
 		</div>
 		<div class="col-md-1 offset-md-7 text-right">
 			<small ng-if="usuario" class="text-white" ng-click="logout()">sair</small>
@@ -42,15 +42,29 @@
 					</small>
 				</h2>
 				<br>
-			
+				
 				<div class="list-group">
 					<div ng-repeat="doc in documentos" class="row list-group-item list-group-item-action">
-						
-						<div class="col-md-12" ng-click="doc.atual=!doc.atual;setDocumentoAtual(doc)">
-							<div class="lead" ng-if="!doc.atual">{{doc.topicos_principais}}</div>
-							<div class="lead" ng-if="doc.atual">
-								<p><strong>{{doc.topicos_principais}}</strong></p>
-								<p class="lead" ng-if="doc.atual">
+						<div class="col-md-12">
+							<p class="lead" ng-if="!doc.atual" ng-click="doc.atual=true;setDocumentoAtual(doc)">
+								<span class="badge badge-info">Apto</span>
+								{{doc.topicos_principais}}
+							</p>
+							<div ng-if="doc.atual">
+								
+								<div class="dropdown">
+								  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown">
+								    Apto repetitivo
+								  </button>
+								  <div class="dropdown-menu">
+								  	<a class="dropdown-item" href="#">Apto repetitivo</a>
+								    <a class="dropdown-item" href="#">Decidido repetitivo</a>
+								    <a class="dropdown-item" href="#">Indicado como repetitivo</a>
+								  </div>
+								</div>
+								
+								<p class="lead" ng-click="doc.atual=false">
+									<strong>{{doc.topicos_principais}}</strong><br>
 									Subtópicos: {{doc.sub_topicos}}
 								</p>
 							</div>
@@ -82,8 +96,9 @@
 		<div ng-show="!usuario">
 			<div class="painel-principal row justify-content-md-center">
 				<div class="col-md-4">
-					<h2 class="jumbotron-heading">Rôbos que favorecem a nossa humanidade</h2>
-	         		<p class="lead text-muted">(Descrever...)</p>
+					<h2 class="jumbotron-heading">Rôbo que favorecem a nossa humanidade</h2>
+					<br>
+	         		<p class="lead text-muted">O <strong>IADR</strong> facilita a identificação das matérias repetitivas, otimizando o julgamento e garantindo a celeridade processual, isonomia e segurança jurídica.</p>
 				</div>
 				
 				<div class="col-md-3 offset-md-1">

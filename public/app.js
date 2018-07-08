@@ -4,8 +4,8 @@ var app = angular.module("lfhApp", ['ngSanitize', 'chart.js']);
 
 app.controller("lfhCtrl", function($rootScope, $scope, api) {
 	
-	$rootScope.brand = 'IA[R]²';
-	$rootScope.brandDetail = 'Identificação de Recursos Repetitivos';
+	$rootScope.brand = 'IADR';
+	$rootScope.brandDetail = 'Identificação de Demandas Repetitivas';
 	
 	$scope.auth = function() {
 		$scope.usuario = {email: $scope.email};
@@ -15,11 +15,9 @@ app.controller("lfhCtrl", function($rootScope, $scope, api) {
 	
 	$scope.logout = function() {
 		$scope.usuario = null;
-		setDocumentoAtual = null;
 	}
 	
 	$scope.setDocumentoAtual = function(doc) {
-		$scope.documentoAtual = doc;
 		carregarProcessos(doc);
 	}
 	
@@ -67,7 +65,7 @@ app.controller("lfhCtrl", function($rootScope, $scope, api) {
 		$scope.documentos = api.getDocumentos();
 	}
 
-	//$scope.auth();
+	$scope.auth();
 });
 
 app.filter('cnj', function() {
