@@ -4,7 +4,7 @@ var app = angular.module("lfhApp", ['ngSanitize', 'chart.js']);
 
 app.controller("lfhCtrl", function($rootScope, $scope, api) {
 	
-	$rootScope.brand = 'IA[RR]²';
+	$rootScope.brand = 'IA[R]²';
 	$rootScope.brandDetail = 'Lawtech Hackathon 2018';
 	
 	$scope.auth = function() {
