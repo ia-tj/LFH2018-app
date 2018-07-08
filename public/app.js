@@ -11,6 +11,10 @@ app.controller("lfhCtrl", function($rootScope, $scope, api) {
 		$scope.usuario = {email: $scope.email};
 	}
 	
+	$scope.logout = function() {
+		$scope.usuario = null;
+	}
+	
 	var carregarLista = function() {
 		$scope.documentos = api.getDocumentos();
 	}

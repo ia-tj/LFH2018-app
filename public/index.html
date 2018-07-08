@@ -25,26 +25,18 @@
 				<span class="navbar-toggler-icon"></span>
 			</button>
 			<a class="navbar-brand" href="#"><strong>{{brand}}</strong> <small>{{brandDetail}}</small></a>
+			<small ng-if="usuario" class="text-white" ng-click="logout()">sair</small>
 		</div>
 	</nav>
 	<br>
-	<div class="container-fluid">
-		<div class="row" ng-if="usuario">
-		
-			<div class="col-md-2 ">
-				<div class="list-group">
-				  <a href="#" class="list-group-item list-group-item-action active disabled">Menu #1</a>
-				  <a href="#" class="list-group-item list-group-item-action disabled"> Menu #2</a>
-				  <a href="#" class="list-group-item list-group-item-action disabled"> Menu #3</a>
+	<div class="container">
+		<div class="row justify-content-md-center" ng-if="usuario">
+			
+			<div class="col-md-10 list-group">
+				<div ng-repeat="doc in documentos" class="list-group-item list-group-item-action">
+					{{doc.topicos_principais}}
 				</div>
 			</div>
-			
-			<div class="col-md-10">
-				<div ng-repeat="doc in documentos">
-					{{doc.numero_processo}}
-				</div>
-			</div>
-			
 
 		</div>
 		
@@ -73,7 +65,7 @@
 					<div class="btn btn-link">Pitch</div>
 				</div>
 				<div class="col-md-4 text-center">
-					<a href="https://github.com/orgs/ia-tj/teams/lfh2018/repositories" class="btn btn-link">Código-fonte</a>
+					<a href="https://github.com/orgs/ia-tj/teams/lfh2018/repositories" target="_blank" class="btn btn-link">Código-fonte</a>
 				</div>
 				<div class="col-md-4 text-center">
 					<div class="btn btn-link">Equipe</div>
