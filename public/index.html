@@ -56,6 +56,19 @@
 						</p>
 
 						<div ng-if="subtopicAtual == subtopic" class="row justify-content-md-center">
+							<div class="col-md-12">
+								<div class="dropdown">
+								  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown">
+								    Apto repetitivo
+								  </button>
+								  <div class="dropdown-menu">
+								  	<a class="dropdown-item" href="#">Apto repetitivo</a>
+								    <a class="dropdown-item" href="#">Decidido repetitivo</a>
+								    <a class="dropdown-item" href="#">Indicado como repetitivo</a>
+								  </div>
+								</div>
+							</div>
+						
 							<div class="col-md-8">
 								<br>
 									<canvas id="radar" class="chart chart-polar-area" chart-data="graph.data" chart-options="options" chart-labels="graph.labels">
