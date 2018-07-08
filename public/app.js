@@ -24,26 +24,50 @@ app.controller("lfhCtrl", function($rootScope, $scope, api) {
 	}
 	
 	var carregarProcessos = function(docAtual) {
+		var segundoJulgado = 0;
+		var primeiro = 0;
+		var segundoPendente = 0;
+		
 		$scope.processos = {};
 		angular.forEach($scope.documentos, function(doc, i) {
 			if (docAtual.topicos_principais == doc.topicos_principais) {
-				this[doc.numero_processo] = {numero_processo: doc.numero_processo, grau: 2, status: "PENDENTE"}
+				var proc = getProcessoStatusAleatorio(doc);
+				this[doc.numero_processo] = proc;
+				
+				if (proc.grau == 1) {
+					primeiro++;
+					proc.statusLabel = 'badge-danger';
+				} else if (proc.grau == 2) {
+					if (proc.status == "JULGADO") {
+						segundoJulgado++;
+						proc.statusLabel = 'badge-primary';
+					} else {
+						segundoPendente++;
+						proc.statusLabel = 'lfh-badge-secondary badge-secondary';
+					}
+				}
 			}
 		}, $scope.processos);
 		
-		
 		$scope.graph = {};
-		
-		$scope.graph.labels =["Pendente 2º", "Julgado 2º", "1º"];
-
-		$scope.graph.data = [65, 59, 90];
+		$scope.graph.labels = ["2º Julgado", "1º", "2º Pendente"];
+		$scope.graph.data = [segundoJulgado, primeiro, segundoPendente];
+	}
+	
+	var getProcessoStatusAleatorio = function(doc) {
+		var grau = Math.floor((Math.random() * 2) + 1);
+		var status;
+		if (grau == 2) {
+			status = Math.floor((Math.random() * 2) + 1) == 1 ? "PENDENTE" : "JULGADO";
+		}
+		return {numero_processo: doc.numero_processo, grau: grau, status: status}
 	}
 	
 	var carregarLista = function() {
 		$scope.documentos = api.getDocumentos();
 	}
 
-	//$scope.auth();
+	$scope.auth();
 });
 
 app.filter('cnj', function() {

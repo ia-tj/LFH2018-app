@@ -51,16 +51,18 @@
 						
 						<div class="col-md-12" ng-if="doc.atual">
 							<div class="row">
-								<div class="col-md-6">
+								<div class="col-md-8">
+									<br>
 									<canvas id="radar" class="chart chart-polar-area" chart-data="graph.data" chart-options="options" chart-labels="graph.labels">
 									</canvas>
 								</div>
-								<div class="col-md-6">
+								<div class="col-md-4">
+									<h4>Processos similares</h4>
 									<div ng-repeat="(id, proc) in processos" >
 										<a href="http://app.tjsc.jus.br/push/pg/n/{{proc.numero_processo | cnj}}" target="_blank">
 											{{proc.numero_processo | cnj}}
 										</a>
-										<span class="badge badge-pill badge-danger">{{proc.grau}}º {{proc.status}}</span>
+										<span class="badge" ng-class="proc.statusLabel">{{proc.grau}}º {{proc.status}}</span>
 									</div>
 								</div>
 							</div>
