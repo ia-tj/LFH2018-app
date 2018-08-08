@@ -11,3 +11,6 @@ https://lfh2018-app.herokuapp.com/
 https://www.facebook.com/pg/lawtechfloripa18/
 
 https://www.instagram.com/explore/tags/lawtechfloripa18/
+
+Cobertura do evento pelo JUSTIÇA LEGAL - 28/07/2018
+https://youtu.be/yecQHkHQ-lI
